@@ -1,0 +1,11 @@
+/Users/killx0n3/FlareHRBattleship/bin/Debug/netcoreapp2.2/FlareHRBattleship.deps.json
+/Users/killx0n3/FlareHRBattleship/bin/Debug/netcoreapp2.2/FlareHRBattleship.runtimeconfig.json
+/Users/killx0n3/FlareHRBattleship/bin/Debug/netcoreapp2.2/FlareHRBattleship.runtimeconfig.dev.json
+/Users/killx0n3/FlareHRBattleship/bin/Debug/netcoreapp2.2/FlareHRBattleship.dll
+/Users/killx0n3/FlareHRBattleship/bin/Debug/netcoreapp2.2/FlareHRBattleship.pdb
+/Users/killx0n3/FlareHRBattleship/obj/Debug/netcoreapp2.2/FlareHRBattleship.csprojAssemblyReference.cache
+/Users/killx0n3/FlareHRBattleship/obj/Debug/netcoreapp2.2/FlareHRBattleship.csproj.CoreCompileInputs.cache
+/Users/killx0n3/FlareHRBattleship/obj/Debug/netcoreapp2.2/FlareHRBattleship.AssemblyInfoInputs.cache
+/Users/killx0n3/FlareHRBattleship/obj/Debug/netcoreapp2.2/FlareHRBattleship.AssemblyInfo.cs
+/Users/killx0n3/FlareHRBattleship/obj/Debug/netcoreapp2.2/FlareHRBattleship.dll
+/Users/killx0n3/FlareHRBattleship/obj/Debug/netcoreapp2.2/FlareHRBattleship.pdb
